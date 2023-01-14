@@ -1,0 +1,199 @@
+C:\jdk-18_windows-x64_bin\jdk-18.0.1.1\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.3\lib\idea_rt.jar=55246:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.3\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\ACS\HarshRohillaCourseWork\out\production\HarshRohillaCourseWork Resort.MainProgram
+-------------------------------------------------
+Menu
+f-  finish the program
+a - to display on the screen information about all the activities.
+c - to display on the screen information about all the customers.
+t - to update the stored data when tickets are bought by one of the registered customers.
+r - to update the stored data when a registered customer cancels tickets for a booking.
+a
+Bowling 8
+Cycling 10
+Football 22
+Hiking 4
+Sailing 3
+Table Tennis 4
+-------------------------------------------------
+Menu
+f-  finish the program
+a - to display on the screen information about all the activities.
+c - to display on the screen information about all the customers.
+t - to update the stored data when tickets are bought by one of the registered customers.
+r - to update the stored data when a registered customer cancels tickets for a booking.
+c
+Ted Jones
+Anna Smith
+Michael Smith
+-------------------------------------------------
+Menu
+f-  finish the program
+a - to display on the screen information about all the activities.
+c - to display on the screen information about all the customers.
+t - to update the stored data when tickets are bought by one of the registered customers.
+r - to update the stored data when a registered customer cancels tickets for a booking.
+t
+Enter Your First Name
+anna
+Enter Your LastName
+smith
+Enter the name of activity whose  you want to buy
+cycling
+Enter the number of ticket you want ot buy for this activity
+2
+Ticket has been booked successfully
+-------------------------------------------------
+Menu
+f-  finish the program
+a - to display on the screen information about all the activities.
+c - to display on the screen information about all the customers.
+t - to update the stored data when tickets are bought by one of the registered customers.
+r - to update the stored data when a registered customer cancels tickets for a booking.
+t
+Enter Your First Name
+ted
+Enter Your LastName
+jones
+Enter the name of activity whose  you want to buy
+cycling
+Enter the number of ticket you want ot buy for this activity
+2
+Ticket has been booked successfully
+-------------------------------------------------
+Menu
+f-  finish the program
+a - to display on the screen information about all the activities.
+c - to display on the screen information about all the customers.
+t - to update the stored data when tickets are bought by one of the registered customers.
+r - to update the stored data when a registered customer cancels tickets for a booking.
+a
+Bowling 8
+Cycling 6
+Football 22
+Hiking 4
+Sailing 3
+Table Tennis 4
+-------------------------------------------------
+Menu
+f-  finish the program
+a - to display on the screen information about all the activities.
+c - to display on the screen information about all the customers.
+t - to update the stored data when tickets are bought by one of the registered customers.
+r - to update the stored data when a registered customer cancels tickets for a booking.
+c
+Ted Jones
+Cycling  2
+Anna Smith
+Cycling  2
+Michael Smith
+-------------------------------------------------
+Menu
+f-  finish the program
+a - to display on the screen information about all the activities.
+c - to display on the screen information about all the customers.
+t - to update the stored data when tickets are bought by one of the registered customers.
+r - to update the stored data when a registered customer cancels tickets for a booking.
+r
+Enter Your First Name
+ted
+Enter Your LastName
+jones
+Enter the name of activity whose  you want to cancel
+cycling
+Enter the number of ticket you want ot cancel
+1
+Ticket has been cancelled successfully!!
+-------------------------------------------------
+Menu
+f-  finish the program
+a - to display on the screen information about all the activities.
+c - to display on the screen information about all the customers.
+t - to update the stored data when tickets are bought by one of the registered customers.
+r - to update the stored data when a registered customer cancels tickets for a booking.
+a
+Bowling 8
+Cycling 7
+Football 22
+Hiking 4
+Sailing 3
+Table Tennis 4
+-------------------------------------------------
+Menu
+f-  finish the program
+a - to display on the screen information about all the activities.
+c - to display on the screen information about all the customers.
+t - to update the stored data when tickets are bought by one of the registered customers.
+r - to update the stored data when a registered customer cancels tickets for a booking.
+c
+Ted Jones
+Cycling  1
+Anna Smith
+Cycling  2
+Michael Smith
+-------------------------------------------------
+Menu
+f-  finish the program
+a - to display on the screen information about all the activities.
+c - to display on the screen information about all the customers.
+t - to update the stored data when tickets are bought by one of the registered customers.
+r - to update the stored data when a registered customer cancels tickets for a booking.
+t
+Enter Your First Name
+ted
+Enter Your LastName
+jones
+Enter the name of activity whose  you want to buy
+table tennis
+Enter the number of ticket you want ot buy for this activity
+4
+Ticket has been booked successfully
+-------------------------------------------------
+Menu
+f-  finish the program
+a - to display on the screen information about all the activities.
+c - to display on the screen information about all the customers.
+t - to update the stored data when tickets are bought by one of the registered customers.
+r - to update the stored data when a registered customer cancels tickets for a booking.
+t
+Enter Your First Name
+mivhael
+Enter Your LastName
+smith
+Sorry you are not a valid customer
+-------------------------------------------------
+Menu
+f-  finish the program
+a - to display on the screen information about all the activities.
+c - to display on the screen information about all the customers.
+t - to update the stored data when tickets are bought by one of the registered customers.
+r - to update the stored data when a registered customer cancels tickets for a booking.
+r
+Enter Your First Name
+ruchi
+Enter Your LastName
+b
+Sorry
+ Your are not our registered customer
+ thank you !!
+-------------------------------------------------
+Menu
+f-  finish the program
+a - to display on the screen information about all the activities.
+c - to display on the screen information about all the customers.
+t - to update the stored data when tickets are bought by one of the registered customers.
+r - to update the stored data when a registered customer cancels tickets for a booking.
+t
+Enter Your First Name
+anna
+Enter Your LastName
+smith
+Enter the name of activity whose  you want to buy
+table tennis
+Enter the number of ticket you want ot buy for this activity
+4
+-------------------------------------------------
+Menu
+f-  finish the program
+a - to display on the screen information about all the activities.
+c - to display on the screen information about all the customers.
+t - to update the stored data when tickets are bought by one of the registered customers.
+r - to update the stored data when a registered customer cancels tickets for a booking.
